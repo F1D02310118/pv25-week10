@@ -10,3 +10,6 @@
 [![img/10.png](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/10.png)](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/10.png)
 [![img/11.png](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/11.png)](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/11.png)
 [![img/12.png](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/12.png)](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/12.png)
+[![img/13.png](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/13.png)](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/13.png)
+[![img/14.png](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/14.png)](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/14.png)
+[![img/15.png](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/15.png)](https://github.com/F1D02310118/pv25-week10/blob/d44912d31ed38679d8222b62a96eb51b7ab4815f/img/15.png)
